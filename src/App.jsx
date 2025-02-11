@@ -7,6 +7,8 @@ import MainLayout from "./layouts/MainLayout";
 //pages
 import { Home, Product } from "./pages";
 
+//actions
+
 function App() {
   const routes = createBrowserRouter([
     {

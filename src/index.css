@@ -4,7 +4,7 @@
 
 @layer components {
   * {
-    @apply transition-all duration-300;
+    @apply transition-all duration-100;
   }
   .align-elements {
     @apply max-w-[1300px] w-full mx-auto px-2;
